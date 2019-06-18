@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18;
+
+
+
+}
+
+.accnt {
+width: 450px;
+margin: 5px;
+border: 2px solid navy;
+border-radius: 20%; 
+
+}
+
+.pref {
+width: 10px;
+margin: 5px;
+border: 2px solid navy;
+border-radius: 5%; 
+
+
+
+}
